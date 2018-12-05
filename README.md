@@ -4,11 +4,12 @@ Contains source code to the Scio+ test found on the link below:
 
 http://www.scioplusinterview.com/general/
 
-The Solution is an Eclipse Java project.
+batch_slaughter_analysis_tool contains source code from an Eclipse Java project.
 
-Plugins used:
+Plugins used: Json-simple Java : https://github.com/fangyidong/json-simple
 
-Json-simple Java : https://github.com/fangyidong/json-simple
 
-#
+scioPlusAlanyseBatches.js is a Node/JavaScript solution to the same test
+
+
 
