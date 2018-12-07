@@ -9,7 +9,5 @@ batch_slaughter_analysis_tool contains source code from an Eclipse Java project.
 Plugins used: Json-simple Java : https://github.com/fangyidong/json-simple
 
 
-scioPlusAlanyseBatches.js is a Node/JavaScript solution to the same test
-
 
 
